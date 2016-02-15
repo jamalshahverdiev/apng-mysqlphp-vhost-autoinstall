@@ -3,6 +3,6 @@ This is autoinstaller for automatically install and configure apache or nginx wi
 Main script is ap-ng-vhost.py
 
 Requirements:
-1. CentOS 6.7 or higher(or any yum based Linux)
-2. Python2.7 must be installed to your Linux server.
-3. Download all files to the Linux server and execute ap-ng-vhost.py script.
+CentOS 6.7 or higher(or any yum based Linux).
+Python2.7 must be installed to your Linux server.
+Download all files to the Linux server and execute ap-ng-vhost.py script.
