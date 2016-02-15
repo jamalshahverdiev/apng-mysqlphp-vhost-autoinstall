@@ -211,7 +211,6 @@ while True:
         print("\nYalniz 1, 2 ve 3 reqemini ayri olmaqla daxil etmek olar.")
         sys.exit()
     elif int(ent) == 1 or int(ent) == 2:
-#        print(ent, "secmisiniz")
         pass
 
     if int(ent) == 1:
