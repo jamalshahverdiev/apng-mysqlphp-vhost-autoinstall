@@ -4,6 +4,6 @@ Main script is **ap-ng-vhost.py**
 
 * Requirements::
 
-     1. ``CentOS6.7`` or higher(or any yum based Linux).
-     2. ``Python2.7`` must be installed to your Linux server.
-     3. Download all files to the Linux server and execute **ap-ng-vhost.py** script.
+     1. CentOS6.7 or higher(or any yum based Linux).
+     2. Python2.7 must be installed to your Linux server.
+     3. Download all files to the Linux server and execute ap-ng-vhost.py script.
